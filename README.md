@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/Gorlix"><img src="https://api.daily.dev/devcards/652504ad034948d0abc6345abf1ee33a.png?r=a1l" width="400" alt="Alessandro Gorla's Dev Card"/></a>
 
 <!--
 **gorlix/gorlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
