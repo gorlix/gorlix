@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/goorlix" target="blank"><img src="https://img.shields.io/twitter/follow/goorlix?logo=twitter&style=for-the-badge" alt="goorlix" /></a> </p>
 
-- 🔭 I’m currently working on [App-Ristoranti](https://github.com/gorlix/app_ristoranti)
+- 🔭 I’m currently working on [App-Ristoranti](https://github.com/gorlix/TickTick-Telegram-Bot)
 
 - 🌱 I’m currently learning **Flutter**
 
