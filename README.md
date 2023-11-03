@@ -1,4 +1,4 @@
-<img src="https://github.com/gorlix/gorlix/blob/main/header.svg" align="center" height="" width="600" />
+<img src="https://github.com/gorlix/gorlix/blob/main/Mask%20group.svg" align="center" height="" width="600" />
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">IT Student and Tech addicted from Italy</h3>
 
