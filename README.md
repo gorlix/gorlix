@@ -1,6 +1,6 @@
 <img src="https://github.com/gorlix/gorlix/blob/main/Header.svg" align="center" height="" width="600" />
-<h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">IT Student and Tech addicted from Italy</h3>
+<h1 align="center">Ciao 👋, I'm Alessandro</h1>
+<h3 align="center">Computer Engineering student at Polytechnic of Milan</h3>
 
 <p align="left"> <a href="https://twitter.com/goorlix" target="blank"><img src="https://img.shields.io/twitter/follow/goorlix?logo=twitter&style=for-the-badge" alt="goorlix" /></a> </p>
 
