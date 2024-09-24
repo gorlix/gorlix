@@ -13,8 +13,6 @@
 
 <p align="left"> <a href="https://twitter.com/goorlix" target="blank"><img src="https://img.shields.io/twitter/follow/goorlix?logo=twitter&style=for-the-badge" alt="goorlix" /></a> </p>
 
-- 🔭 I’m currently working on Learning Rust
-
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **ale.gorla2002@gmail.com**
