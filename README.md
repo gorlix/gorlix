@@ -1,4 +1,13 @@
-<img src="https://github.com/gorlix/gorlix/blob/main/Header.svg" align="center" height="" width="600" />
+```rust
+       db    88     888888 .dP"Y8 .dP"Y8    db    88b 88 8888b.  88""Yb  dP"Yb 
+      dPYb   88     88__   `Ybo." `Ybo."   dPYb   88Yb88  8I  Yb 88__dP dP   Yb
+     dP__Yb  88  .o 88""   o.`Y8b o.`Y8b  dP__Yb  88 Y88  8I  dY 88"Yb  Yb   dP
+    dP""""Yb 88ood8 888888 8bodP' 8bodP' dP""""Yb 88  Y8 8888Y"  88  Yb  YbodP 
+     dP""b8  dP"Yb  88""Yb 88        db                                        
+    dP   `" dP   Yb 88__dP 88       dPYb                                       
+    Yb  "88 Yb   dP 88"Yb  88  .o  dP__Yb                                      
+     YboodP  YbodP  88  Yb 88ood8 dP""""Yb                                     
+```
 <h1 align="center">Ciao 👋, I'm Alessandro</h1>
 <h3 align="center">Computer Engineering student at Polytechnic of Milan</h3>
 
