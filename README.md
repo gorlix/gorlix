@@ -1,3 +1,5 @@
+<div align="right"><a href="README.en.md">🇬🇧 Switch to English</a></div>
+
 ```rust
        db    88     888888 .dP"Y8 .dP"Y8    db    88b 88 8888b.  88""Yb  dP"Yb 
       dPYb   88     88__   `Ybo." `Ybo."   dPYb   88Yb88  8I  Yb 88__dP dP   Yb
