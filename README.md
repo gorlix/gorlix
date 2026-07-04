@@ -8,19 +8,81 @@
     Yb  "88 Yb   dP 88"Yb  88  .o  dP__Yb                                      
      YboodP  YbodP  88  Yb 88ood8 dP""""Yb                                     
 ```
-<h1 align="center">Ciao 👋, I'm Alessandro</h1>
-<h3 align="center">Computer Engineering student at Polytechnic of Milan</h3>
 
-<p align="left"> <a href="https://twitter.com/goorlix" target="blank"><img src="https://img.shields.io/twitter/follow/goorlix?logo=twitter&style=for-the-badge" alt="goorlix" /></a> </p>
-
-- 🌱 I’m currently learning **Rust**
-
-- 📫 How to reach me **ale.gorla2002@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/gorlix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gorlix" height="30" width="40" /></a>
-<a href="https://twitter.com/goorlix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goorlix" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gorla-alessandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gorla-alessandro" height="30" width="40" /></a>
-<a href="https://instagram.com/gorlix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorlix" height="30" width="40" /></a>
+<p align="center">
+Smanetto, rompo cose e poi le rimetto insieme meglio di prima.<br/>
+Ho la fissa della precisione (non su tutto, eh) e dei dettagli: a volte mi perdo pure su quelli inutili, solo perché non vengono come li ho in testa.<br/>
+Il mio playground preferito è un <b>homelab</b> che cresce ogni settimana, ma finisco sempre<br/>
+per scrivere qualche tool che risolve un mio problema (e già che ci sono, anche quello di qualcun altro).<br/>
+Quando chiudo il terminale scambio dritti a tennis, cerco la curva perfetta sugli sci e ogni tanto<br/>
+rispolvero il mio passato da pallavolista; per il resto ascolto la stampante 3D che ronza e vado a<br/>
+caccia di posti dove si mangia bene — <a href="https://maps.app.goo.gl/jUEC9DrZFhSKTYhQA">questa</a> la lascio qui, poi vedi tu che farci.<br/>
+Il tempo che avanza lo do al <b>Rotaract Abbiategrasso</b>, dove sono il papà del <a href="https://github.com/gorlix/MDIO-website">sito del primo multidistretto italiano</a>.
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gorla-alessandro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ale.gorla2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://dev.to/gorlix"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+  <a href="https://twitter.com/goorlix"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+---
+
+## 🏗️ Progetto in evidenza — Homelab
+
+> Il mio progetto più grande e ambizioso: un **homelab autogestito**, pensato come palestra di apprendimento continuo.
+> Networking, container, self-hosting, automazione e, soprattutto, documentazione seria, messa giù nero su bianco
+> passo dopo passo. Così che chiunque possa capirci qualcosa (me compreso, tra sei mesi).
+
+### ➡️ **[gorlix/homelab](https://github.com/gorlix/homelab)** — dacci un'occhiata, è documentatissimo
+
+> 🏠 Super fan della domotica come me? Fai un salto nella sezione **Home Assistant** del repo per approfondire.
+
+---
+
+## 🚀 Progetti
+
+### 🤖 Vibecoded
+> Qui il codice l'ha scritto l'AI: mie le scelte infrastrutturali e le decisioni di design ingegneristico,
+> l'architettura e la direzione. Piccoli, utili, e risolvono un problema vero.
+> Quasi tutti ruotano attorno al mio ebook reader [Supernote Manta](https://supernote.com).
+
+| Repo | Cosa fa |
+|------|---------|
+| **[sn_make_space](https://github.com/gorlix/sn_make_space)** | Plugin per Supernote che libera spazio sul dispositivo. |
+| **[sn-tcp-tunnel](https://github.com/gorlix/sn-tcp-tunnel)** | Il mio preferito 😎 — attiva `socat` per incapsulare il flusso video TCP via cavo, così fai streaming anche con reti restrittive o senza connessione. |
+| **[SuperFlow](https://github.com/gorlix/SuperFlow)** | Plugin di automazione ambizioso, con un sistema di Add-on scrivibili dalla community. *(WIP)* |
+
+### 🧠 Con supporto AI (ma non solo vibecoding)
+> Progettati da me, con l'AI come copilota. La testa e l'infrastruttura sono mie, qui sul codice
+> ci ho messo le mani anch'io, l'abbiamo scritto insieme.
+
+| Repo | Cosa fa |
+|------|---------|
+| **[MorgenCalendar-Telegram-Bot](https://github.com/gorlix/MorgenCalendar-Telegram-Bot)** | Gestisci il tuo calendario Morgen direttamente da Telegram. |
+| **[AuleLiberePoliMi](https://github.com/gorlix/AuleLiberePoliMi)** | Trova le aule libere al PoliMi. Nato come PR sul repo originale, adottato quando l'autore ha mollato — ora gira sul mio homelab. |
+| **[focus-mode-app-linux](https://github.com/gorlix/focus-mode-app-linux)** + **[ha-focus-mode-linux](https://github.com/gorlix/ha-focus-mode-linux)** | Progetto *DnD*: blocca le app distraenti su Linux sincronizzandosi con lo stato Non Disturbare di Android via Home Assistant (o in standalone). 🦀 *In migrazione da Python a Rust / Tauri — per imparare Rust e Tauri sul campo.* |
+
+### ⌨️ Fatto a mano
+> Zero vibecoding: qui il codice l'ho scritto io, riga per riga (sono progetti più vecchi o particolarmente piacevoli).
+
+| Repo | Cosa fa |
+|------|---------|
+| **[my-adept](https://github.com/gorlix/my-adept)** | Firmware del mio trackball [Ploopy Adept](https://ploopy.co) customizzato, con comandi e integrazioni per KDE. *(La doc l'ha aiutata l'AI, il codice no.)* |
+
+---
+
+## ⌨️ Una cosa di cui vado fiero — il mio layout ZSA Moonlander
+
+> Ho passato *troppe* ore a limare il layout della mia tastiera split ergonomica, e ne è uscito qualcosa cucito addosso a me:
+> - un **layer da gaming** che mi lascia le dita nella posizione corretta di scrittura, senza rinunciare ai comandi che mi servono;
+> - un **layout ibrido** che sulla fila dei numeri tiene i simboli shiftati della tastiera americana ma conserva gli accenti di quella italiana.
+>
+> Piccoli dettagli, certo — ma è esattamente lì che mi diverto. Ed è una delle cose di cui vado più fiero.
+
+### ➡️ **[Guarda il layout live su Oryx](https://configure.zsa.io/moonlander/layouts/0olR6/latest/0/intro)**
+
+---
+
+<p align="center"><i>🌱 In questo periodo mi sto divertendo con <b>Rust</b>.</i></p>
